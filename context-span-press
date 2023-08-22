@@ -1,0 +1,15 @@
+/* 
+FOR MOBILE NATIVE */
+
+body {
+    -webkit-tap-highlight-color: transparent;
+    
+}
+body {
+    overscroll-behavior-x: none; 
+}
+
+body {
+    -webkit-touch-callout:none;
+}
+
